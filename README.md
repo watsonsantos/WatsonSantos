@@ -1,5 +1,5 @@
 # 💫 About Me:</br>
-Hello, I embarked on the world of programming in 2018 when I went to university to study Computer Engineering. There I met people and developed skills that help me develop projects and solutions in programming. Today I'm a Fullstack developer with React.js and Node.js.<br>🛠️ Fullstack Developer<br>💡At this moment I'm learning Next.js with Typscript <br><br>
+Hello, I embarked on the world of programming in 2018 when I went to university to study Computer Engineering. There I met people and developed skills that help me develop projects and solutions in programming. Today I'm a Fullstack developer with React.js and Node.js.<br><br>🛠️ Fullstack Developer<br>💡At this moment I'm learning Next.js with Typscript <br><br>
 
 
 ## 🌐 Socials:
