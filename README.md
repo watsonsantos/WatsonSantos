@@ -10,8 +10,8 @@ Hello, I embarked on the world of programming in 2018 when I went to university 
 # 📊 GitHub Stats:
 <div style="display: inline;">
   
-![](https://github-readme-stats.vercel.app/api?username=watsonsantos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=watsonsantos&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=watsonsantos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=watsonsantos&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=watsonsantos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
